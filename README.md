@@ -1,4 +1,4 @@
-CS3402_project 
+## Cityu CS3342 Project
 
 A Hr system have different use.
 
